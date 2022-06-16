@@ -14,4 +14,4 @@ components:
       - name: kubeconfig
         containerPath: /.kube
     alias: oc
-    image: 'quay.io/openshift/origin-cli:4.8'
+    image: 'quay.io/openshift/origin-cli:4.10'
